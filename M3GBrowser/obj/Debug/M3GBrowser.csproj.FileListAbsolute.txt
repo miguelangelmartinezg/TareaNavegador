@@ -1,0 +1,10 @@
+C:\Users\Prueba\source\repos\M3GBrowser\M3GBrowser\bin\Debug\M3GBrowser.exe.config
+C:\Users\Prueba\source\repos\M3GBrowser\M3GBrowser\bin\Debug\M3GBrowser.exe
+C:\Users\Prueba\source\repos\M3GBrowser\M3GBrowser\bin\Debug\M3GBrowser.pdb
+C:\Users\Prueba\source\repos\M3GBrowser\M3GBrowser\obj\Debug\M3GBrowser.csproj.AssemblyReference.cache
+C:\Users\Prueba\source\repos\M3GBrowser\M3GBrowser\obj\Debug\M3GBrowser.frmBrowser.resources
+C:\Users\Prueba\source\repos\M3GBrowser\M3GBrowser\obj\Debug\M3GBrowser.Properties.Resources.resources
+C:\Users\Prueba\source\repos\M3GBrowser\M3GBrowser\obj\Debug\M3GBrowser.csproj.GenerateResource.cache
+C:\Users\Prueba\source\repos\M3GBrowser\M3GBrowser\obj\Debug\M3GBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\source\repos\M3GBrowser\M3GBrowser\obj\Debug\M3GBrowser.exe
+C:\Users\Prueba\source\repos\M3GBrowser\M3GBrowser\obj\Debug\M3GBrowser.pdb
